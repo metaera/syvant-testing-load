@@ -1,0 +1,5 @@
+learn:
+    - [<proper>"str0"]
+        - ["is", "here"]
+        - ["is", "live"]
+    - { "command": "new context" }
